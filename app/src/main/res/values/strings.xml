@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Errandmarket</string>
+    <string name="gpsbutton">우리동네 설정하고 시작하기</string>
+    <string name="title">도움이 필요한 순간</string>
+    <string name="gpsline1">심부름마켓은 동네 심부름 어플이에요.</string>
+    <string name="gpsline2">우리 동네를 설정하고 시작해보세요!</string>
+</resources>
